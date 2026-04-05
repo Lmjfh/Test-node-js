@@ -1,0 +1,11 @@
+{
+  "name": "test-node-render pour monter à Joël comment ont fait ",
+  "version": "1.0.0",
+  "description": "Test Node.js pour Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
